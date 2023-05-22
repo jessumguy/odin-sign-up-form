@@ -2,7 +2,9 @@
 
 DEMO: https://jessumguy.github.io/odin-sign-up-form/
 
-
+| Full Screen | Media Query `max-width: 900px` |
+|---|---|
+|![image](https://github.com/jessumguy/odin-sign-up-form/assets/43509228/646cab86-9133-4ff2-b2d7-2621e1f1cdef) | ![image](https://github.com/jessumguy/odin-sign-up-form/assets/43509228/b7daef57-e59b-44dd-8a70-08b6fca03a49)![image](https://github.com/jessumguy/odin-sign-up-form/assets/43509228/8bbbc430-e2ec-424b-a938-fad43696d37c)|
 
 Odin HTML / CSS Sign-up Form Project: https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form
 
